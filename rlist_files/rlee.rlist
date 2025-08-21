@@ -1,5 +1,6 @@
 #4/21/25 added dfw sky
 #8/11/25 finished dfw. added atl from 2014
+#8/20/25 Chicago excl ORD
 
 CO DENTrn JepTer CGat
 
@@ -9,8 +10,16 @@ FL EpcMon TraTicCen EPCOT
 GA BluLn CNNCen Avo
 GA PlaTrn DomTer CGat
 
+IL AirTraSys Ter3 MulModFac
+IL GreLine CerMcCPl StaLake
+IL OraLine Roo Loop
+IL PurLine How Lin
+#IL PurLineExp Loop Lin
+IL RedLine CerChi She
+
 MS CR Lau Mer
 
 TX Sky A8 A21
+
 
 #https://tmrail.teresco.org/hb/showroute.php?units=miles&u=rlee&r=tx.sky
